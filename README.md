@@ -5,21 +5,21 @@ Welcome to my GitHub profile! I'm a passionate making video and coding with a lo
 ## 🚀 About Me
 
 - **💻 Profession**: IDK
-- **🔧 Skills**: Python, JavaScript, AI, Automation, Other Skills..  
+- **🔧 Skills**: Python, JavaScript, AI, Automation, videography and creation.  
 - **📧 Contact**: dhannjaysingh2006@gmail.com  
 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, [Other Languages]
-- **Frameworks & Libraries**: Playwright, Selenium, TensorFlow, [Other Frameworks]
-- **Tools**: GitHub, Docker, VSCode, [Other Tools]
+- **Languages**: Python, JavaScript 
+- **Frameworks & Libraries**: Playwright, Selenium, TensorFlow, Other Frameworks
+- **Tools**: GitHub, VSCode, 
 
 ## 📚 Learning & Goals
 
 I'm constantly learning and exploring new technologies. Currently, I'm focused on:
 
-- Advancing my skills in [Specific Technology or Field]
+- Advancing my skills in AI Technology 
 - Building innovative AI solutions
 - Contributing to open-source projects
 
@@ -27,9 +27,8 @@ I'm constantly learning and exploring new technologies. Currently, I'm focused o
 
 Feel free to reach out if you have any questions or just want to chat about technology!
 
-- **Twitter**: [[Your Twitter Handle](https://x.com/dhaannjayy_)]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile URL]
+- **Twitter**: [Twitter](https://x.com/dhaannjayy_)
+- **GitHub**: [[GitHub](https://github.com/DhananjayDiwan)]
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you and collaborating on exciting projects. 😊
 
