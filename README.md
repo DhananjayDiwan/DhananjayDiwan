@@ -1,4 +1,4 @@
-# Hello, I'm [Dhananajay Diwan] 👋
+# Hello, I'm Dhananajay Diwan 👋
 
 Welcome to my GitHub profile! I'm a passionate making video and coding with a love for technology and problem-solving. I enjoy working on projects that challenge me and push the boundaries of what's possible with technology.
 
